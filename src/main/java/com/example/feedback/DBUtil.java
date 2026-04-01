@@ -9,7 +9,7 @@ public class DBUtil {
     private static final String URL =
             "jdbc:postgresql://ider-database.westeurope.cloudapp.azure.com:5433/h184921?currentSchema=feedback";
     private static final String USER = "h184921";
-    private static final String PASSWORD = "Vina1234";
+    private static final String PASSWORD = "";
 
     static {
         try {
